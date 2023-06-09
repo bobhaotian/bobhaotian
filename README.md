@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobhaotian
 - 👀 I’m interested in Racing Cars, Soccer, and Coding etc.
 - 🌱 I’m currently learning Computer Science in UW
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate on Software development and System Design
 - 📫 How to reach me: bobhaotian@gmail.com
 
 <!---
