@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobhaotian
+- 👋 Hi, I’m Robert Bao
 - 👀 I’m interested in Racing Cars, Soccer, music and Coding etc.
 - 🌱 I’m currently learning Computer Science in UW
 - 💞️ I’m looking to collaborate on Software development and System Design
