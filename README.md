@@ -28,7 +28,7 @@
 <p align="center">
   <!-- Summary Cards -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobhaotian&theme=radical" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobhaotian&theme=radical&v=2" alt="Profile Details" />
   </a>
 </p>
 <p align="center">
