@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 By the Numbers (Rate-Limit Safe)
+## 📊 By the Numbers
 <p align="center">
   <!-- Summary Cards -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
