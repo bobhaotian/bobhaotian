@@ -27,22 +27,14 @@
 ## 📊 By the Numbers
 
 <p align="center">
-  <img
-    alt="GitHub profile summary"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobhaotian&theme=radical&cache_seconds=21600"
-  />
+  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/profile-summary-card-output/profile-details.svg" />
 </p>
 
 <p align="center">
-  <img
-    alt="Repos per language"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bobhaotian&theme=radical&cache_seconds=21600"
-  />
-  <img
-    alt="Most commit language"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bobhaotian&theme=radical&cache_seconds=21600"
-  />
+  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/profile-summary-card-output/repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/profile-summary-card-output/most-commit-language.svg" />
 </p>
+
 
 
 ---
