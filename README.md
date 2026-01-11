@@ -25,20 +25,25 @@
 ---
 
 ## 📊 By the Numbers
+
 <p align="center">
-  <!-- Summary Cards -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobhaotian&theme=radical&v=3" alt="Profile Details" />
-  </a>
+  <img
+    alt="GitHub profile summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bobhaotian&theme=radical&cache_seconds=21600"
+  />
 </p>
+
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bobhaotian&theme=radical" alt="Repos per language" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bobhaotian&theme=radical" alt="Most commit language" />
-  </a>
+  <img
+    alt="Repos per language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bobhaotian&theme=radical&cache_seconds=21600"
+  />
+  <img
+    alt="Most commit language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bobhaotian&theme=radical&cache_seconds=21600"
+  />
 </p>
+
 
 ---
 
