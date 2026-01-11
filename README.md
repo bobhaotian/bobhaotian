@@ -27,12 +27,12 @@
 ## 📊 By the Numbers
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/profile-summary-card-output/profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/main/profile-summary-card-output/bobhaotian/github/profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/profile-summary-card-output/repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/profile-summary-card-output/most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/main/profile-summary-card-output/bobhaotian/github/repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/bobhaotian/bobhaotian/main/profile-summary-card-output/bobhaotian/github/most-commit-language.svg" />
 </p>
 
 
