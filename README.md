@@ -4,16 +4,15 @@
 </p>
 
 <p align="center">
-  🎓 CS + AI @ University of Waterloo · 🚗 Racing & ⚽️ Soccer Enthusiast · 🎹 Pianist (Chopin & Liszt)  
+  🎓 CS + AI @ University of Waterloo · 🚗 Racing & ⚽️ Soccer · 🎹 Pianist
 </p>
 
 ---
 
 ## 🌌 About Me
-- I’m a student exploring **AI, algorithms, and systems**  
-- I treat code as both **a lab notebook** and **a playground**  
-- Always curious, always learning, and always looking for the next thing to explore.
-- ⚡ My dream: combine **speed (racing cars)** + **intelligence (AI)** into something that feels alive  
+- CS + AI @ UWaterloo, Stats minor. 
+- Transformers, ML systems, full-stack.
+- Built and led AI projects in industry.
 
 ---
 
